@@ -32,7 +32,7 @@
 
 1. Склонировать репозиторий:
     ```bash
-    git clone https://github.com/твой_логин/amazon-sales-analysis.git
+    git clone https://github.com/LA488/amazon-sales-analysis.git
     cd amazon-sales-analysis
     ```
 
